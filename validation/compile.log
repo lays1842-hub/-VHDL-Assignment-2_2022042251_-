@@ -1,0 +1,27 @@
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+Start time: 22:53:59 on Oct 29,2026
+vcom -2002 -work work C:\Users\iankd\Documents\Codex\2026-10-29\https-chatgpt-com-share-6ae33303-0c40\outputs\Assignment-2\src\logic_test.vhd C:\Users\iankd\Documents\Codex\2026-10-29\https-chatgpt-com-share-6ae33303-0c40\outputs\Assignment-2\src\mux8_1.vhd C:\Users\iankd\Documents\Codex\2026-10-29\https-chatgpt-com-share-6ae33303-0c40\outputs\Assignment-2\src\seg7_letters.vhd C:\Users\iankd\Documents\Codex\2026-10-29\https-chatgpt-com-share-6ae33303-0c40\outputs\Assignment-2\src\vote25.vhd C:\Users\iankd\Documents\Codex\2026-10-29\https-chatgpt-com-share-6ae33303-0c40\outputs\Assignment-2\src\vote13_display.vhd C:\Users\iankd\Documents\Codex\2026-10-29\https-chatgpt-com-share-6ae33303-0c40\outputs\Assignment-2\validation\tb_assignment2.vhd 
+** Note: (vcom-220) 'C:/altera/25.1std/questa_fse/win64/../modelsim.ini' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity logic_test
+-- Compiling architecture bhv of logic_test
+-- Compiling entity mux8_1
+-- Compiling architecture bhv of mux8_1
+-- Compiling entity seg7_letters
+-- Compiling architecture bhv of seg7_letters
+-- Compiling entity vote25
+-- Compiling architecture bhv of vote25
+-- Compiling entity vote13_display
+-- Compiling architecture bhv of vote13_display
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_assignment2
+-- Compiling architecture test of tb_assignment2
+-- Loading entity logic_test
+-- Loading entity mux8_1
+-- Loading entity seg7_letters
+-- Loading entity vote25
+-- Loading entity vote13_display
+End time: 22:53:59 on Oct 29,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
